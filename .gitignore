@@ -28,5 +28,9 @@ Thumbs.db
 *.swp
 
 # Personal notes
-controllers/docs/project_memory.md
+project_memory.md
+
+
+
+docs/project_memory.md
 

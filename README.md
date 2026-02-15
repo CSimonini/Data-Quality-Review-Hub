@@ -50,4 +50,6 @@ streamlit run app.py
 
 ## Docs
 
-Detailed docs are in `controllers/docs/`.
+Detailed docs are in `docs/`.
+
+
