@@ -1,0 +1,23 @@
+# Streamlit server settings
+[server]
+# Run without opening a browser window automatically
+headless = true
+# Allow the app to be embedded or accessed across origins
+enableCORS = true
+# Basic protection against CSRF attacks
+enableXsrfProtection = true
+# Max upload size in MB for file widgets
+maxUploadSize = 200
+
+# Browser settings
+[browser]
+# Disable anonymous usage stats
+gatherUsageStats = false
+
+# Theme settings (light, readable defaults)
+[theme]
+base = "light"
+primaryColor = "#007FC4"
+backgroundColor = "#F2F6FA"
+secondaryBackgroundColor = "#DCEAF5"
+textColor = "#155E97"
